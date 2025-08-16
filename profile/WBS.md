@@ -15,7 +15,7 @@
 
 ## 📅 월요일 (8/18) - 기반 구축
 
-### 🤖 AI Backend Team (Dorian + 석우)
+### 🤖 AI Backend Team (Dorian + 석우님)
 **대분류**: FastAPI + OpenAI API + LangChain 파이프라인 구축
 - **Size**: Large (1일 풀타임)
 - **Priority**: P0
@@ -75,7 +75,7 @@
 
 ## 📅 수요일 (8/20) - 확장 기능 개발
 
-### 🤖 AI Backend 확장 (Dorian + 석우)
+### 🤖 AI Backend 확장 (Dorian + 석우님)
 **멘토링 결과에 따른 신규 작업**:
 - 에이전트 기능 기본 구조 구현
 - RAG 파이프라인 설계
