@@ -3,7 +3,6 @@
 > AI 기반 피부 상태 분석을 통한 맞춤형 피부과 병원 추천 플랫폼
 
 [![GitHub Stars](https://img.shields.io/github/stars/SkinMatchProject5?style=social)](https://github.com/SkinMatchProject5)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Development Status](https://img.shields.io/badge/status-MVP%20Development-orange)](https://github.com/orgs/SkinMatchProject5/projects/1)
 
 ## 📱 서비스 소개
