@@ -159,7 +159,7 @@ cd Certification-Authorization
 
 ## 📚 문서
 
-- **[📋 WBS (업무 분해 구조)](./WBS.md)** - 주간 개발 계획 및 일정
+- **[📋 WBS (업무 분해 구조)](docs/WBS.md)** - 주간 개발 계획 및 일정
 - **[📡 API 명세서](./docs/API_SPEC.md)** - REST API 문서
 - **[📝 회의록](https://www.notion.so/5-22f000f5781980c8b665dcb6f88f9711?pvs=11)** - 멘토링 및 팀 회의 기록
 
