@@ -36,7 +36,8 @@
 
 ## 🏗️ 시스템 아키텍처
 
-<img width="1157" height="555" alt="스크린샷 2025-08-16 오후 11 13 00" src="https://github.com/user-attachments/assets/5ed2e120-39a8-4f2c-aa0f-ee36060daafa" />
+<img width="1150" height="548" alt="스크린샷 2025-08-16 오후 11 49 33" src="https://github.com/user-attachments/assets/f9ec26f9-02b7-4488-a29c-49ed6e0908f4" />
+
 
 
 ## 🚀 기술 스택
