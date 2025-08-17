@@ -25,7 +25,7 @@
 - LangChain 기본 구조 학습 및 적용
 - OpenAI API 호출 (파인튜닝과 동일 결과 프롬프트)
 - 분석 결과 CRUD API 구현
-- 프론트엔드로 JSON 응답 API 완성
+- 프론트엔드로 JSON /XML 응답 API 완성
 
 ### 💾 Auth Backend (성민님)
 **대분류**: H2 → MySQL 전환 + 회원정보 UI 연동
@@ -49,7 +49,7 @@
 - Qdrant 저장용 스키마 설계
 - 병원 정보 표준화 (이름, 주소, 전화번호, 진료과목, 영업시간)
 - Vector DB용 메타데이터 구조 정의
-- JSON/CSV 형태로 데이터 정리
+- JSON or XML /CSV 형태로 데이터 정리
 
 ---
 
