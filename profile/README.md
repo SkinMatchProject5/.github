@@ -74,7 +74,7 @@ SkinMatchProject5/
 ├── 📁 Certification-Authorization/   # 인증/인가 서비스  
 ├── 📁 Hospital-Location-Backend/     # 병원 정보 서비스
 ├── 📁 Camera-Shooting/              # 이미지 처리 서비스
-├── 📁 Chatbot-Backend/              # AI 챗봇 서비스
+├── 📁 Chatbot-Backend/              # AI 챗봇 , Agent 서비스
 ├── 📁 SkinMatchFront/               # React 프론트엔드
 ├── 📁 docs/                        # 프로젝트 문서
 │   ├── 📄 WBS.md                   # 주간 업무 계획
