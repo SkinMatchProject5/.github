@@ -70,12 +70,12 @@
 
 ```
 SkinMatchProject5/
-├── 📁 AI-Analysis-Backend/          # AI 분석 서비스
-├── 📁 Certification-Authorization/   # 인증/인가 서비스  
-├── 📁 Hospital-Location-Backend/     # 병원 정보 서비스
-├── 📁 Camera-Shooting/              # 이미지 처리 서비스
-├── 📁 Chatbot-Backend/              # AI 챗봇 , Agent 서비스
-├── 📁 SkinMatchFront/               # React 프론트엔드
+├── 📁 AI-Analysis-Backend/          # AI 분석 서비스 8001
+├── 📁 Certification-Authorization/   # 인증/인가 서비스 8081
+├── 📁 Hospital-Location-Backend/     # 병원 정보 서비스 8002
+├── 📁 Camera-Shooting/              # 이미지 처리 서비스 8000
+├── 📁 Chatbot-Backend/              # AI 챗봇 , Agent 서비스 8003
+├── 📁 SkinMatchFront/               # React 프론트엔드 5173
 ├── 📁 docs/                        # 프로젝트 문서
 │   ├── 📄 WBS.md                   # 주간 업무 계획
 │   ├── 📄 ARCHITECTURE.md          # 시스템 아키텍처
